@@ -1,6 +1,5 @@
-Primeira Entrega - Descrição do Hardware
-Enviar um PDF extraido do github do projeto do grupo contendo a descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores, impressão 3D de peças, medidas de peças e caixas, etc.)
-Deve conter:
+Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores, impressão 3D de peças, medidas de peças e caixas, etc.)
+
 1)	Lista de Peças (descrição e imagens, quando disponíveis)
 - 01 - Arduino Uno SMD com Cabo USB;
 - 01 - Protoboard 400 Pontos;
